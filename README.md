@@ -11,6 +11,10 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalbertobengaly&theme=dark" width="350"></a>
 </p>
 
+<p align='center'> 
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalbertobengaly&theme=dark" width="350"></a>
+</p>
+
 - 🌱 I’m currently learning Android with Kotlin
 - 📫 How to reach me: adalbertobengaly@gmail.com    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adalbertomidon/)](https://www.linkedin.com/in/adalbertomidon/)
 

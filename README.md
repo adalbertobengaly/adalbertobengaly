@@ -5,6 +5,6 @@
 
 ### Minhas informações aqui no GitHub:
 
-![Status](https://github-readme-stats.vercel.app/api?username=adalbertobengaly) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact)](https://github.com/adalbertobengaly)
+![Status](https://github-readme-stats.vercel.app/api?username=adalbertobengaly) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=adalbertobengaly&layout=compact)](https://github.com/adalbertobengaly)
 
 

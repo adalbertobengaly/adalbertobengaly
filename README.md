@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'> 
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalbertobengaly&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalbertobengaly&theme=dark&layout=compact" width="350"></a>
 </p>
 
 - 🌱 I’m currently learning Android with Kotlin

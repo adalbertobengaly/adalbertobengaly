@@ -1,4 +1,8 @@
 ### Hi there 👋
+<p align='center'> 
+  - 🌱 I’m currently learning Android with Kotlin
+  - 📫 How to reach me: adalbertobengaly@gmail.com
+</p>
 
 <p align='center'> 
   <a href="https://www.linkedin.com/in/adalbertomidon/">

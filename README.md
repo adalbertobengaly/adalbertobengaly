@@ -3,11 +3,11 @@
 </p>
 
 <p align='center'> 
-  - 🌱 I’m currently learning Android with Kotlin
+  🌱 I’m currently learning Android with Kotlin
 </p>
 
 <p align='center'> 
-  - 📫 How to reach me: adalbertobengaly@gmail.com
+  📫 How to reach me: adalbertobengaly@gmail.com
 </p>
 
 <p align='center'> 
@@ -22,6 +22,10 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalbertobengaly&theme=dark&layout=compact" width="350" ></a></a>
+</p>
+
+<p align='center'>
+  ### :books: Currently Learning:
 </p>
 
 <p align='center'>

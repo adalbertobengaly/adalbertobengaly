@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'> 
-  🌱 I’m currently learning Android with Kotlin
+  🌱 I’m currently learning JavaScript
 </p>
 
 <p align='center'> 
